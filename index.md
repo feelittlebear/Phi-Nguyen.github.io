@@ -3,24 +3,23 @@
 ---
 
 ### Adventure Game
-
-[Project 1 Title](/sample_page)
+This game showcases the use of programming principles like inheritance, encapsulation, and polymorphism.
 <img src="https://raw.githubusercontent.com/feelittlebear/Phi-Nguyen.github.io/refs/heads/master/images/Adventure_Game.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### Explorable Areas
 <img src="https://raw.githubusercontent.com/feelittlebear/Phi-Nguyen.github.io/refs/heads/master/images/Explorable_Areas.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
+### Substitution Cipher
 <img src="https://raw.githubusercontent.com/feelittlebear/Phi-Nguyen.github.io/refs/heads/master/images/Substitution_Cipher.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
+### Trivia Game
 <img src="https://raw.githubusercontent.com/feelittlebear/Phi-Nguyen.github.io/refs/heads/master/images/Trivia_Game.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
+### Store Application
 <img src="https://raw.githubusercontent.com/feelittlebear/Phi-Nguyen.github.io/refs/heads/master/images/Store_Application.png"/>
 
 ### Category Name 2

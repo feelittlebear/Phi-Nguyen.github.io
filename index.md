@@ -4,6 +4,7 @@
 
 ### Adventure Game
 This game showcases the use of programming principles like inheritance, encapsulation, and polymorphism.
+
 <img src="https://raw.githubusercontent.com/feelittlebear/Phi-Nguyen.github.io/refs/heads/master/images/Adventure_Game.png"/>
 
 ---

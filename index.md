@@ -5,11 +5,11 @@
 ### Adventure Game
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/feelittlebear/Phi-Nguyen.github.io/refs/heads/master/images/Adventure_Game.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/feelittlebear/Phi-Nguyen.github.io/refs/heads/master/images/Explorable_Areas.png"/>
 
 ---
 [Project 3 Title](http://example.com/)

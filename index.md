@@ -13,9 +13,15 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/feelittlebear/Phi-Nguyen.github.io/refs/heads/master/images/Substitution_Cipher.png"/>
 
 ---
+[Project 3 Title](http://example.com/)
+<img src="https://raw.githubusercontent.com/feelittlebear/Phi-Nguyen.github.io/refs/heads/master/images/Trivia_Game.png"/>
+
+---
+[Project 3 Title](http://example.com/)
+<img src="https://raw.githubusercontent.com/feelittlebear/Phi-Nguyen.github.io/refs/heads/master/images/Store_Application.png"/>
 
 ### Category Name 2
 

@@ -1,13 +1,4 @@
-title: Phi Nguyen # your name (or website title) here
+theme: jekyll-theme-minimal
+title: Phi Nguyen's Portfolio
+description: Portfolio for PROG 101
 logo: "https://raw.githubusercontent.com/feelittlebear/Phi-Nguyen.github.io/refs/heads/master/images/Phi%20cool%20image%20for%20github.JPG" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
-theme: jekyll-theme-midnight
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here

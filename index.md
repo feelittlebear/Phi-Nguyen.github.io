@@ -3,7 +3,7 @@
 ---
 
 ### Adventure Game
-This game showcases the use of programming principles like inheritance, encapsulation, and polymorphism.
+This <a href="https://github.com/feelittlebear/programming-101/tree/81c0a8876ead50762fa0cee6d18c4313ff51c8b8/PNguyen_Midterm_AdventureGame">game</a></p> showcases the use of programming principles like inheritance, encapsulation, and polymorphism.
 
 <img src="https://raw.githubusercontent.com/feelittlebear/Phi-Nguyen.github.io/refs/heads/master/images/Adventure_Game.png"/>
 

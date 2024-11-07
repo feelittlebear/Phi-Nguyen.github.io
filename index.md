@@ -9,31 +9,27 @@ This game showcases the use of programming principles like inheritance, encapsul
 
 ---
 ### Explorable Areas
+A command-line game application with four areas to explore. Player can find items in each area and add them to their inventory.
+
 <img src="https://raw.githubusercontent.com/feelittlebear/Phi-Nguyen.github.io/refs/heads/master/images/Explorable_Areas.png"/>
 
 ---
 ### Substitution Cipher
+An application that encodes and decodes using a simple substitution cipher.
+
 <img src="https://raw.githubusercontent.com/feelittlebear/Phi-Nguyen.github.io/refs/heads/master/images/Substitution_Cipher.png"/>
 
 ---
 ### Trivia Game
+A trivia application that allows a player to pick the correct answer. This version presents the player with three answers and the player will choose one. 
+
 <img src="https://raw.githubusercontent.com/feelittlebear/Phi-Nguyen.github.io/refs/heads/master/images/Trivia_Game.png"/>
 
 ---
 ### Store Application
+An application that allows players to order items from a menu and calculate the total cost, using operators and conditional statements.
+
 <img src="https://raw.githubusercontent.com/feelittlebear/Phi-Nguyen.github.io/refs/heads/master/images/Store_Application.png"/>
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
 
 
 ---
